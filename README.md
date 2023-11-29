@@ -392,5 +392,11 @@ function is_select($var, $val) {
 </html>
 ```
 
+## Output Program
 
+![menu](https://github.com/DimasF3009/Lab9web/assets/115356128/2a9ba787-6b69-470e-be63-221def958234)
+
+![tambah](https://github.com/DimasF3009/Lab9web/assets/115356128/165ad6e6-97f6-4e23-a436-db7229ec5fe4)
+
+![ubah](https://github.com/DimasF3009/Lab9web/assets/115356128/3ce0b13c-cd6f-4290-b45b-9dea3b3f34c8)
 
