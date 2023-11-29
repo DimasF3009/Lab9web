@@ -30,6 +30,7 @@
 ```
 
 ### Buat file dengan footer.php
+
 ```
 <footer>
     <div class="footer">
@@ -37,7 +38,9 @@
     </div>
 </footer>
 ```
+
 ### Buat file dengan about.php 
+
 ```
 <?php require('header.php'); ?>
     <div class="content">
@@ -47,7 +50,11 @@
 <?php require('footer.php'); ?>
 ```
 
+![about](https://github.com/DimasF3009/Lab9web/assets/115356128/126a1a18-04bc-47ad-b438-f8a0578e43e3)
+
+
 ### Buat file dengan kontak.php 
+
 ```
 <?php require('header.php'); ?>
     <div class="content">
@@ -57,7 +64,11 @@
 <?php require('footer.php'); ?>
 ```
 
+![kontak](https://github.com/DimasF3009/Lab9web/assets/115356128/b73d825f-56be-4e34-9312-2780151ea01b)
+
+
 ### Buat file dengan home.php
+
 ```
 <?php require('header.php')?>
 <div class="content">
@@ -65,5 +76,15 @@
         <p>Ini adalah bagian content dari halaman.</p>
     </div>
 <?php require('footer.php');?>
-``
+```
+
+![home](https://github.com/DimasF3009/Lab9web/assets/115356128/a776f647-2c3a-4922-a31b-a25c8867ac03)
+
+
+## Tugas 
+Implementasikan konsep modularisasi pada kode program praktikum 8
+
+
+
+
 
