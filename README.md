@@ -2,7 +2,7 @@
 
 # langkah-langkah praktikum
 
-# Buat file dengan header.php
+### Buat file dengan header.php
 
 ```
 <!DOCTYPE html>
@@ -29,7 +29,7 @@
         </nav>
 ```
 
-# Buat file dengan footer.php
+### Buat file dengan footer.php
 ```
 <footer>
     <div class="footer">
@@ -37,7 +37,7 @@
     </div>
 </footer>
 ```
-# Buat file dengan about.php 
+### Buat file dengan about.php 
 ```
 <?php require('header.php'); ?>
     <div class="content">
@@ -47,7 +47,7 @@
 <?php require('footer.php'); ?>
 ```
 
-# Buat file dengan kontak.php 
+### Buat file dengan kontak.php 
 ```
 <?php require('header.php'); ?>
     <div class="content">
@@ -56,4 +56,14 @@
     </div>
 <?php require('footer.php'); ?>
 ```
+
+### Buat file dengan home.php
+```
+<?php require('header.php')?>
+<div class="content">
+        <h2>Ini Halaman home</h2>
+        <p>Ini adalah bagian content dari halaman.</p>
+    </div>
+<?php require('footer.php');?>
+``
 
