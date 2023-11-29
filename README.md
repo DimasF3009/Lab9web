@@ -84,6 +84,22 @@
 ## Tugas 
 Implementasikan konsep modularisasi pada kode program praktikum 8
 
+### Buat file link.php
+```
+<?php 
+    $menu = "index.php";
+?>
+<p><a href="<?php echo $menu; ?>">Kembali Ke Menu</a></p>
+```
+
+### Buat file footer.php
+```
+<footer>
+    <div class="footer">
+        <p>&copy; 2021, Informatika, Dimas Firmansyah</p>
+    </div>
+</footer>
+```
 
 
 
